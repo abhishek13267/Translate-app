@@ -48,14 +48,12 @@ graph TD
    npm run install-all
    ```
 2. **Environment Configuration**:
-   Create `backend/.env`:
-   ```env
    PORT=5000
-   MONGODB_URI=mongodb://localhost:27017/vaak-ai
-   JWT_SECRET=strong_access_secret_32_chars
-   REFRESH_SECRET=extreme_long_refresh_secret_64_chars
-   ALLOWED_ORIGINS=http://localhost:5173
-   GOOGLE_CREDENTIALS_JSON={ "paste_content_here": "..." }
+MONGODB_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+REFRESH_SECRET=your_refresh_secret
+ALLOWED_ORIGINS=http://localhost:5173
+GOOGLE_CREDENTIALS_JSON=your_google_credentials
    ```
 3. **Ignite**:
    ```bash
