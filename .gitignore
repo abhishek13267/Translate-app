@@ -1,0 +1,50 @@
+# Core
+node_modules/
+dist/
+build/
+.next/
+out/
+
+# Environment and Secrets
+.env*
+credentials.json
+temp_credentials.json
+*.pem
+*.key
+
+# Debug and Test Scripts
+debug_*.js
+test_*.js
+check_*.js
+capture_*.js
+tmp_*.js
+actual_log.txt
+project_errors.log
+
+# Application Specific
+logs/
+backend/logs/
+frontend/build/
+frontend/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+combined.log
+error.log
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.bak
+*.backup
+*.tmp
