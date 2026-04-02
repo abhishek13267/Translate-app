@@ -136,5 +136,5 @@ Vaak-AI/
 
 ---
 
-Developed and secured by **Antigravity Studio**. ✨  
+Developed and secured by **Abhishek**. ✨  
 © 2026 **Vaak AI** | **Bodhi Intelligence Ecosystem**.
